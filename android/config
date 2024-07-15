@@ -1,0 +1,25 @@
+[
+    {
+        "appName": {
+            "en-US": "X"
+        },
+        "packageName": "com.XXX",
+        "views": [
+            {
+                "viewName": {
+                    "en-US": ""
+                },
+                "viewId": "",
+                "options": [
+                    {
+                        "optionId": "1",
+                        "optionName": {
+                            "en-US": ""
+                        },
+                        "url": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
